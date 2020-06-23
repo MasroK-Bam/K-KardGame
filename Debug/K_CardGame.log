@@ -1,0 +1,24 @@
+﻿  카드중복체크 테스트.c
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(61,31): warning C4047: 'return': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(94,43): warning C4047: 'return': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(98,34): warning C4047: 'return': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(39,11): warning C4101: 'ttang' :참조되지 않은 지역 변수입니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(105,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(116,30): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(116,30): warning C4024: 'supply': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(116,39): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(116,39): warning C4024: 'supply': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(117,30): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(117,30): warning C4024: 'supply': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(117,39): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(117,39): warning C4024: 'supply': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(121,30): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(121,30): warning C4024: 'supply': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(121,39): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(121,39): warning C4024: 'supply': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(122,30): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(122,30): warning C4024: 'supply': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(122,39): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(122,39): warning C4024: 'supply': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\카드중복체크 테스트.c(33): warning C4716: 'supply': 값을 반환해야 합니다.
+  K_CardGame.vcxproj -> D:\6월 주말 자료구조 강신혁\Day1\K_CardGame\Debug\K_CardGame.exe
